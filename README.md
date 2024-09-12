@@ -1,1 +1,2 @@
-
+Ready2Eat (Food recommending app)
+Have you ever try to come up with a question of "What should I eat after work"? I believe you have. Nowadays, there so many options to choose from and this is a great things but this also give us the headache question every single day. Or you can use our app to come up with an idea of what to choose. Just put in your preference, from taste, calories, allergies,... and voila
